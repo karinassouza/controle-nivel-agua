@@ -17,9 +17,6 @@ Sistema simples em Python para monitoramento de níveis de um reservatório.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) 
 
 ▶️Como executar
-
-Copie o código
-
-Entre no python ( https://www.online-python.com/ )
-
-Execute o código.
+- Copie o código
+- Entre no python ( https://www.online-python.com/ )
+- Execute o código.
