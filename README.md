@@ -19,5 +19,7 @@ Sistema simples em Python para monitoramento de níveis de um reservatório.
 ▶️Como executar
 
 Copie o código
+
 Entre no python ( https://www.online-python.com/ )
+
 Execute o código.
